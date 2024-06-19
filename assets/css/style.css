@@ -1,0 +1,15 @@
+.list::before {
+	content: 'Studente: ';
+}
+
+.list::after {
+	content: ' - Classe FS0624';
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+}
